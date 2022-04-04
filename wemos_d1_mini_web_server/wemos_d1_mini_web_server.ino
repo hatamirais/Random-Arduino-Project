@@ -8,7 +8,7 @@
 
 // Replace with your network credentials
 const char* ssid     = "TOTOLINK_N200RE";
-const char* password = "hatami007";
+const char* password = "REDACTED";
 
 // Set web server port number to 80
 WiFiServer server(80);
