@@ -2,7 +2,7 @@
 
 //SSID of your network
 char ssid[] = "TOTOLINK_N200RE"; //SSID of your Wi-Fi router
-char pass[] = "hatami007"; //Password of your Wi-Fi router
+char pass[] = "REDACTED"; //Password of your Wi-Fi router
 
 void setup()
 {
